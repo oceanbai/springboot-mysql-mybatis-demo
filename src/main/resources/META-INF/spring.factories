@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.demo.smm.cionfig.FileServerAutoConfiguration
+
+org.springframework.boot.autoconfigure.AutoConfigurationImportFilter=com.example.demo.smm.cionfig.MyExclusionFilter
